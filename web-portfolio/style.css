@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+header, footer {
+  text-align: center;
+  margin: 10px;
+  background-color: #ffc145;
+}
+
+main div {
+  text-align: center;
+  margin: 5px 70px;
+  background-color: #87b37a;
+}
+
+
+img {
+  border-radius: 20px;
+}
+
+a:link {color: #D26844} 
+a:visited {color: #CF5C36}
+a:hover {color: #AE5457}
+a:active {color: #79B3B1}
